@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mirror", "Mirror", "{515D9E44-A375-D6C4-D04F-3DD688572934}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{610E41A5-9CF1-992D-542B-02BB86422B58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Editor", "Editor", "{046400E2-13CD-07E2-6704-DFE454FAC4D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = ".WeaverTests", "Mirror\Tests\Editor\Weaver\.WeaverTests.csproj", "{BA5DD1DC-9239-0CEE-3320-9E5892368105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5DD1DC-9239-0CEE-3320-9E5892368105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5DD1DC-9239-0CEE-3320-9E5892368105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5DD1DC-9239-0CEE-3320-9E5892368105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5DD1DC-9239-0CEE-3320-9E5892368105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{610E41A5-9CF1-992D-542B-02BB86422B58} = {515D9E44-A375-D6C4-D04F-3DD688572934}
+		{046400E2-13CD-07E2-6704-DFE454FAC4D4} = {610E41A5-9CF1-992D-542B-02BB86422B58}
+		{BA5DD1DC-9239-0CEE-3320-9E5892368105} = {046400E2-13CD-07E2-6704-DFE454FAC4D4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E38E00B-C406-41E9-9D4F-B7FBC59C278A}
+	EndGlobalSection
+EndGlobal

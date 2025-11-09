@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b029f9f848636fa4d806c5db9e71f1e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarPrefab: {fileID: 5395773927600923576, guid: 1846fc6847b9f514a87e531a3d9981d4, type: 3}
+  - enemyIdleSOBase: {fileID: 11400000, guid: 752c0a142a596a54f8e4ff7922b98378, type: 2}
+  - enemyAttackSOBase: {fileID: 11400000, guid: 40fd362e5ad3fd241b147a7a13885bae, type: 2}
+  - enemyChaseSOBase: {fileID: 11400000, guid: fc1d1d26acded0d4fb9d53017eaba05e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c90a867c7cab6b541a16cd18f6383724, type: 3}
+  m_Name: EnemyAttackSingleStateProjectile
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 2903498825167611084, guid: 8a821e311f472a34991555d78bf98512, type: 3}
+  _timeBetweenAttacks: 1
+  _timeTillExit: 2
+  _distanceToCountExit: 3
+  _bulletSpeed: 5

@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "BhlYIf2dfe4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\LG\\My project\\Assets\\Mirror\\Tests\\Editor\\Weaver\\.WeaverTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Mirror is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project Mirror supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\LG\\My project\\Assets\\Mirror\\Tests\\Editor\\Weaver\\.WeaverTests.csproj",
+      "filePath": "C:\\Users\\LG\\My project\\Assets\\Mirror\\Tests\\Editor\\Weaver\\.WeaverTests.csproj",
+      "libraryId": "Mirror",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project WeaverTestExtraAssembly is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project WeaverTestExtraAssembly supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "projectPath": "C:\\Users\\LG\\My project\\Assets\\Mirror\\Tests\\Editor\\Weaver\\.WeaverTests.csproj",
+      "filePath": "C:\\Users\\LG\\My project\\Assets\\Mirror\\Tests\\Editor\\Weaver\\.WeaverTests.csproj",
+      "libraryId": "WeaverTestExtraAssembly",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

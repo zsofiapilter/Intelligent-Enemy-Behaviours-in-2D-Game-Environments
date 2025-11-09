@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40a2cdba14c247a43b32339832be0518
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyIdleSOBase: {instanceID: 0}
+  - enemyAttackSOBase: {instanceID: 0}
+  - enemyChaseSOBase: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

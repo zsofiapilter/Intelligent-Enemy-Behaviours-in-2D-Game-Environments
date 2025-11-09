@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d3a2ceb63161246b9d1845e2fe7e50, type: 3}
+  m_Name: EnemyAttackGather
+  m_EditorClassIdentifier: 
+  desiredRingRadius: 3
+  minRingRadius: 3
+  shrinkSpeed: 10
+  maxSpeed: 4
+  separationRadius: 4
+  slotArrivalThreshold: 1
+  separationWeight: 1
+  cohesionWeight: 3
+  alignWeight: 0.4
+  slotWeight: 2
+  attackDamage: 1
+  attackCooldown: 0.8
+  attackRangeBonus: 0.3
